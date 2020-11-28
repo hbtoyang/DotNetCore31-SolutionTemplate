@@ -1,0 +1,1 @@
+# DotNetCore31-SolutionTemplate
